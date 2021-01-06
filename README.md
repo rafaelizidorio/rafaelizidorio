@@ -7,4 +7,4 @@
 ### About me
 I'm a front-end developer.
 
-- [Portfólio](https://izidoriodev.netlify.app/) 💻 - Portfólio, com todos os meus trabalhos.
+- [Portfólio](https://izidoriodev.netlify.app/) 💻 - Todos os meus projetos.
