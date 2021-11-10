@@ -5,6 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anorielthemage)](https://twitter.com/izi_rafael)
 
 ### About me
-I'm a front-end developer and UX/UI Designer.
+I'm a UX/UI Designer.
 
 <!-- - [Portfolio](https://izidoriodev.netlify.app/) 💻 - all my projects.  -->
