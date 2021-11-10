@@ -2,9 +2,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelizidorio)](https://github.com/rafaelizidorio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelizidorio/)](https://www.linkedin.com/in/rafaelizidorio/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anorielthemage)](https://twitter.com/anorielthemage)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anorielthemage)](https://twitter.com/izi_rafael)
 
 ### About me
-I'm a front-end developer and UX/UI Design.
+I'm a front-end developer and UX/UI Designer.
 
-- [Portfolio](https://izidoriodev.netlify.app/) 💻 - all my projects.
+<!-- - [Portfolio](https://izidoriodev.netlify.app/) 💻 - all my projects.  -->
